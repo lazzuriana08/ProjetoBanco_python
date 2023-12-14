@@ -1,0 +1,2 @@
+O projeto consistiu na programação de um código que simula operações bancárias feitas pelo cliente, com a linguagem de programação Python. O código da a possibilidade de criar novas contas no banco, apagar, listar, fazer transferências, débitos, depositos, recargas de celular e a visualizaçõa de extrato. Tudo isso a partir do dados fornecidos pelo cliente, como senha, CPF e tipo de conta.
+O tipo de conta é importante, pois o limite negativo e as tarifas de débito variam dependo se a conta é "comum" ou "plus".
